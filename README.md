@@ -1,6 +1,6 @@
 # astronomy_talks
 A selection of my talks:
-- 12.02.2020 - Public talk on dangers in the solar system and in the Milky Way for life on earth
+- 12.02.2020 - Public talk on dangers in the solar system and in the Milky Way for life on earth in the public library of Bammental
 - 14.11.2019 - Public talk on dangers in the solar system and in the Milky Way for life on earth: http://www.haus-der-astronomie.de/de/veranstaltungen/faszination-astronomie
 - 27.09.2019 - Public talk on Gaia Colour magnitude diagrams in German: https://www.nacht-der-forschung-heidelberg.de/event/vortrag-koennen-wir-immer-noch-etwas-ueber-sterne-lernen/ 
 - 29.11.2018 - Talk on multi-zone inference perspectives: http://www2.mpia-hd.mpg.de/homes/cenag2018/
