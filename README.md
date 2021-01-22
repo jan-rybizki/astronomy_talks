@@ -1,5 +1,6 @@
 # astronomy_talks
 A selection of my talks:
+- 21.01.2021 - Public talk in German on the CO2 footprint of Astronomy in Faszination Astronomy Online can be watched on youtube: https://www.youtube.com/watch?v=iKUcO2u_Azs
 - 12.02.2020 - Public talk on dangers in the solar system and in the Milky Way for life on earth in the public library of Bammental
 - 14.11.2019 - Public talk on dangers in the solar system and in the Milky Way for life on earth: http://www.haus-der-astronomie.de/de/veranstaltungen/faszination-astronomie
 - 27.09.2019 - Public talk on Gaia Colour magnitude diagrams in German: https://www.nacht-der-forschung-heidelberg.de/event/vortrag-koennen-wir-immer-noch-etwas-ueber-sterne-lernen/ 
